@@ -8,9 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamwankhede&label=Profile%20views&color=0e75b6&style=flat" alt="gautamwankhede" /> </p>
 
-- 🔭 I’m currently working on [Hotstar website](https://github.com/gautamwankhede/hotstarsite.git)
 
-- 🌱 I’m currently learning **Framework ,DSA , c++ etc**
+- 🌱 I’m currently learning **Data science ,DSA , c++ etc**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gautam-wankhede-b13315222](https://www.linkedin.com/in/gautam-wankhede-b13315222)
 
