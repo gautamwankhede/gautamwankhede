@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400">
+
 <h1 align="center">Hi 👋, I'm Gautam Wankhede</h1>
 <h3 align="center">A passionate Full stack developer AND Data analytics from India</h3>
 <br>
@@ -18,25 +20,16 @@
 - 📫 How to reach me **gautamw510@gmail.com**
 
 - ⚡ Fun fact ** 😎⬇️**
-- <img align="left" alt="coding" width="400" src="https://github.com/gautamwankhede/gautamwankhede/assets/141042143/06310cac-1d47-4dcb-9512-7c9b6a83a97c"><br>
-<br>
 
-- <br>
-<br>
+- <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
 
-<br>
 
-<br>
-
-<br>
-
-<br>
 <br>
 <br>
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3><br>
 <p align="left">
 <a href="https://twitter.com/gautampatel47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautampatel47" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gautam-wankhede-b13315222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gautam-wankhede-b13315222" height="30" width="40" /></a>
@@ -49,7 +42,22 @@
 <a href="https://auth.geeksforgeeks.org/user/gautam91qb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gautam91qb" height="30" width="40" /></a>
 </p>
 <br>
-<br>
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="100"> <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/235294009-98ca7572-795f-4056-b2c1-ccbde3f2982e.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="100"> 
+<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="100">
+</div>
+
+
 <br>
 <br>
 <br>
