@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gautam Wankhede</h1>
 <h3 align="center">A passionate Full stack developer AND Data analytics from India</h3>
-![Uploading image.png…]()
 
+<img align=src="![image](https://github.com/gautamwankhede/gautamwankhede/assets/141042143/d85270e7-82a6-4187-8ddf-b133264ba7a6)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamwankhede&label=Profile%20views&color=0e75b6&style=flat" alt="gautamwankhede" /> </p>
 
