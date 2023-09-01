@@ -1,11 +1,13 @@
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400">
+<img width="1000" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<h1 align="center">Hi 👋, I'm Gautam Wankhede</h1>
+<img align="center" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400">
+<h1 align="center"> I'm😎 Gautam Wankhede</h1>
+
 <h3 align="center">A passionate Full stack developer AND Data analytics from India</h3>
 <br>
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="600" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamwankhede&label=Profile%20views&color=0e75b6&style=flat" alt="gautamwankhede" /> </p>
@@ -20,7 +22,6 @@
 - 📫 How to reach me **gautamw510@gmail.com**
 
 - ⚡ Fun fact ** 😎⬇️**
-
 - <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
 
 <br>
@@ -84,11 +85,20 @@
 
 <br>
 
+<br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamwankhede&show_icons=true&locale=en&layout=compact" alt="gautamwankhede" /></p>
+
 <br>
 <br>
+
+
 <br>
+
+
+<br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautamwankhede&show_icons=true&locale=en" alt="gautamwankhede" /></p>
 <br>
@@ -96,3 +106,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamwankhede&" alt="gautamwankhede" /></p>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
+
+
