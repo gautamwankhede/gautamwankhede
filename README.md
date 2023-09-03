@@ -100,7 +100,9 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamwankhede&show_icons=true&theme=algolia&hide_border=true&layout=compact" alt="gautamwankhede" width="45%"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamwankhede&show_icons=true&theme=algolia&hide_border=true&layout=compact" alt="gautamwankhede" width="45%"/><img 
+ align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200">
+
 <br>
 <br>
 <br>
