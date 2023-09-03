@@ -111,7 +111,7 @@
 <br>
 
 <div>
-<img align="left" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="450">
+<img align="left" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="430">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gautamwankhede&show_icons=true&theme=algolia&hide_border=true" alt="gautamwankhede" width="49%">
 
 
