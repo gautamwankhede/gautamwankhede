@@ -5,14 +5,14 @@
 <img align="center" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="300">
 <h1 align="center"> I'm   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="40">&nbsp; Gautam Wankhede</h1>
 
-<h3 align="center">A Passionate Full Stack Developer AND Data analytics from India</h3>
+<h3 align="center">    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="33">&nbsp;A Passionate Full Stack Developer AND Data analytics from India     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="33">&nbsp;</h3>
 <br>
 
 
 <img align="right" alt="coding" width="600" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamwankhede&label=Profile%20views&color=0e75b6&style=flat" alt="gautamwankhede" />    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="40">&nbsp;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamwankhede&label=Profile%20views&color=0e75b6&style=flat" alt="gautamwankhede" /> 
 </p>
 
 
@@ -91,9 +91,11 @@
 </div>
 <br>
 
-<br>
 
 <br>
+<br>
+<br>
+
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamwankhede&show_icons=true&theme=algolia&hide_border=true&layout=compact" alt="gautamwankhede" /></p>
@@ -105,6 +107,9 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+
 <div>
 <img align="left" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="450">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gautamwankhede&show_icons=true&theme=algolia&hide_border=true" alt="gautamwankhede" width="49%">
