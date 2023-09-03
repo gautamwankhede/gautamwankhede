@@ -24,14 +24,14 @@
 
 - 📫 How to reach me **gautamw510@gmail.com**
 
-- ⚡ Fun fact ** I am funny likeeee this 😎⬇️**
+- ⚡ Fun fact ** I am funny liiikeeee this 😎⬇️**
 - <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
 
 <br>
 <br>
 
 
-<h3 align="left">Connect with Gautam:</h3><br>
+<h3 align="left">Connect with tha tha gabru jawan:</h3><br>
 <p align="left">
 <a href="https://twitter.com/gautampatel47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautampatel47" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gautam-wankhede-b13315222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gautam-wankhede-b13315222" height="30" width="40" /></a>
