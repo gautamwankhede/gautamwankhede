@@ -105,7 +105,7 @@
 <br>
 <br>
 <div>
-<img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="220">
+<img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="280">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gautamwankhede&show_icons=true&theme=algolia&hide_border=true" alt="gautamwankhede" width="49%">
 <br>
 <br><br>
@@ -118,11 +118,15 @@
 <br>
 <br>
 <br>
+
 <br>
 <br>
 <br>
 <br>
 <br>
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
 
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
