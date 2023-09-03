@@ -99,18 +99,21 @@
 <br>
 <br>
 <br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamwankhede&show_icons=true&theme=algolia&hide_border=true&layout=compact" alt="gautamwankhede" width="45%"/></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamwankhede&show_icons=true&theme=algolia&hide_border=true&layout=compact" alt="gautamwankhede" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
 <div>
