@@ -95,7 +95,7 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamwankhede&show_icons=true&locale=en&layout=compact" alt="gautamwankhede" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamwankhede&show_icons=true&theme=algolia&hide_border=true&layout=compact" alt="gautamwankhede" /></p>
 <br>
 <br>
 <br>
@@ -106,11 +106,12 @@
 <br>
 <div>
 <img align="left" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="220">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=gautamwankhede&show_icons=true&locale=en" alt="gautamwankhede">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=gautamwankhede&show_icons=true&theme=algolia&hide_border=true" alt="gautamwankhede" width="49%">
+<br>
+<br><br>
 
 
-
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamwankhede&" alt="gautamwankhede" /></div>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamwankhede&theme=algolia&hide_border=true" alt="gautamwankhede" width="49%"/></div>
 <br>
 <br>
 <br>
