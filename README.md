@@ -17,11 +17,11 @@
 </p>
 
 
-- 🌱 I’m currently learning **Data science ,DSA , c**
+- 🌱 I’m currently learning **Data science ,DSA , c++**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gautam-wankhede-b13315222](https://www.linkedin.com/in/gautam-wankhede-b13315222)
 
-- 💬 Ask me about **Big Data Analytics , OOPS ,c++ , java etc**
+- 💬 Ask me about **Big Data Analytics , OOPS ,c , java etc**
 
 - 📫 How to reach me **gautamw510@gmail.com**
 
