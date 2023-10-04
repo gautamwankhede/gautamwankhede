@@ -17,7 +17,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Data science ,Dsadsfsddfds , c++**
+- 🌱 I’m currently learning **Data science ,Dsadsfsddfdsfgdxgds , c++**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gautam-wankhede-b13315222](https://www.linkedin.com/in/gautam-wankhede-b13315222)
 
